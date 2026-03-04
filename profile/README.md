@@ -1,12 +1,5 @@
-## Hi there 👋
+Sublime Plants is a hardware / software project with the mission to "demystify and democratize plant care systems and knowledge."
 
-<!--
+Plants are a remarkable, yet overlooked resource. They can provide us with food, medicines, textiles, building materials, and more. All the meanwhile offering numerous ecological benefits and little to no waste. And yet, our relationship with them is ever-increasingly disconnected and contorted.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+In a world where industrialized processes prioritize profit and efficiency over ecological and personal wellbeing, and institutions seek to hold all the cards, our goal is to empower individuals and communities with the systems and knowledge to grow plants. To build local resilience against a fragile, broken system. To choose sustainable practices rather than unsustainable ones.
