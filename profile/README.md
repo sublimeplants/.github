@@ -6,4 +6,4 @@ In a world where industrialized processes prioritize profit and efficiency over 
 
 We believe that knowledge is power, and we aim to accomplish our goal with an open-source hardware ecosystem, and open-core software platform, so that individuals, communities, and professionals can understand precisely how they came to their conclusions rather than relying on a company saying, "Just trust us and buy our solution."
 
-The core of our development happens here, [docs.sublimeplants.com](http://docs.sublimeplants.com/), and [Our Discord](https://discord.gg/ZaeAjAaN)
+The core of our development happens here (Github), [docs.sublimeplants.com](http://docs.sublimeplants.com/), and [Our Discord](https://discord.gg/ZaeAjAaN)
