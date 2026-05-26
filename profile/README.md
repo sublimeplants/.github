@@ -1,3 +1,5 @@
 Sublime Grow Systems builds hardware and software for the people who grow things: commercial operations, researchers, and serious hobbyists. Our mission: demystify and democratize plant care systems and knowledge.
 Plants are one of our most fundamental resources. Food, medicine, textiles, building materials, ecological services most of us take for granted. Yet the tools and knowledge needed to grow them confidently have never been more opaque. Most commercial solutions just ask you to trust them.
 We think you deserve to understand how your system works and how it reaches its conclusions. So we build tools that are transparent by design, systems you can interrogate, not just operate. No black boxes. No "trust the algorithm." Just growers making better decisions with better information.
+
+We're doing a lot behind the scenes that we're very excited to share with you very soon.
